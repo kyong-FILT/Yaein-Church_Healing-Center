@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="f4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .5px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-5 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: .2px;
+      }
+
+      .cls-4 {
+        stroke-width: .25px;
+      }
+
+      .cls-5 {
+        stroke-width: .3px;
+      }
+    </style>
+  </defs>
+  <g id="HATCH">
+    <rect class="cls-4" x="139.35" y="551.59" width="221.11" height="123.45"/>
+    <path class="cls-4" d="M149.68,675.04v-123.45M185.68,675.04v-123.45M221.68,675.04v-123.45M257.68,675.04v-123.45M293.68,675.04v-123.45M329.68,675.04v-123.45M360.46,649.53h-221.11M360.46,613.53h-221.11M360.46,577.53h-221.11"/>
+  </g>
+  <g id="HATCH-2" data-name="HATCH">
+    <path class="cls-4" d="M372.51,729.79v-97.41M394.55,729.79v-97.41M416.6,729.79v-97.41M438.65,729.79v-97.41M460.7,762.39v-130.01M482.75,762.39v-130.01M504.8,762.39v-130.01M526.84,762.39v-130.01M548.89,762.39v-130.01"/>
+  </g>
+  <g id="HATCH-3" data-name="HATCH">
+    <path class="cls-2" d="M460.7,896v-95.34M482.75,896v-95.34M504.8,896v-95.34M526.84,896v-93.27M548.89,896v-77.65M570.94,896v-73.32M592.99,896v-104.45M615.04,896v-123.25M637.09,896v-107.64M659.13,896v-92.02M681.18,896v-76.4"/>
+  </g>
+  <g id="LWPOLYLINE">
+    <polyline class="cls-5" points="808.33 844.98 872.11 844.98 872.11 1074.58 452.88 1074.58"/>
+  </g>
+  <g id="LWPOLYLINE-2" data-name="LWPOLYLINE">
+    <polyline class="cls-5" points="452.88 896 701.03 896 701.03 833.66"/>
+  </g>
+  <g id="LWPOLYLINE-3" data-name="LWPOLYLINE">
+    <polyline class="cls-1" points="367.54 682.12 367.54 729.79 448.07 729.79 448.07 762.39 563.98 762.39 563.98 632.38 367.54 632.38"/>
+  </g>
+  <g id="LWPOLYLINE-4" data-name="LWPOLYLINE">
+    <polyline class="cls-1" points="563.98 632.38 583.61 632.38 808.33 791.55 808.33 861.98 741.02 861.98 609.23 768.63 565.62 830.2 523.91 800.66 452.88 800.66 452.88 1074.58 132.24 1074.58 132.24 682.12"/>
+  </g>
+  <g id="LWPOLYLINE-5" data-name="LWPOLYLINE">
+    <polyline class="cls-1" points="563.98 640.88 580.9 640.88 799.83 795.95 799.83 853.48 743.73 853.48 607.2 756.77 563.59 818.34 526.62 792.15 444.37 792.15 444.37 1066.08 140.75 1066.08 140.75 682.12"/>
+  </g>
+  <g id="LWPOLYLINE-6" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="132.26" y="544.5" width="235.28" height="137.62"/>
+  </g>
+  <g id="LWPOLYLINE-7" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="139.35" y="551.59" width="221.11" height="123.45"/>
+  </g>
+  <g id="frame">
+    <rect class="cls-3" x="4.72" y="379.06" width="1190.55" height="841.89"/>
+  </g>
+</svg>
